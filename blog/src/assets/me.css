@@ -1,0 +1,10 @@
+
+@media (max-width:640px) {
+    .Navigation{
+        position: fixed;
+        bottom: 20px;
+    }
+    .sm-no{
+        display: none;
+    }
+}
